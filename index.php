@@ -1,5 +1,5 @@
 <?php
-// Pour Connexion à la base de données (vous devez remplacer les valeurs appropriées)
+// Pour Connexion à la base de données 
 $servername = "localhost";
 $username = "root";
 $password = "root";
